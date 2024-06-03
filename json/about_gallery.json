@@ -1,0 +1,21 @@
+[
+  {
+    "imageUrl": "img/gallery/5.png",
+    "altText": "Description for image 1"
+  },
+  {
+    "imageUrl": "img/gallery/6.png",
+    "altText": "Description for image 2"
+  }, {
+    "imageUrl": "img/gallery/5.png",
+    "altText": "Description for image 1"
+  },
+  {
+    "imageUrl": "img/gallery/6.png",
+    "altText": "Description for image 2"
+  },
+	{
+    "imageUrl": "img/gallery/5.png",
+    "altText": "Description for image 1"
+  }
+]
